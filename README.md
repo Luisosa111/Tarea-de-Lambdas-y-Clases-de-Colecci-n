@@ -1,4 +1,4 @@
-##Universidad Autonoma de Baja california
+## Universidad Autonoma de Baja california
 Alumno Luis Enrique Sosa Gonzalez
 Matricula:1186855
 Profesora: Maria Luisa Gonzalez Ramirez
@@ -16,7 +16,7 @@ y la clase de Cadena que trabaja con letras y la 3ra es el main para probar que 
 
 ## Métodos
 
-###1. El Multiplicador (ArrayList)
+1. El Multiplicador (ArrayList)
 Multiplica cada número de un ArrayList<Integer> por un factor usando replaceAll y una expresión lambda, cambiando directamente la lista original.
 
 2. El Filtro Selectivo (ArrayList)
